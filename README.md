@@ -111,5 +111,3 @@ CTR mode lets you build a stream cipher from a block cipher.
 ```
 Always avoid the two time pad!
 ```
-
-## (Kết thúc nội dung file)
