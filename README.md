@@ -6,8 +6,8 @@ This report describes the Python program written to decrypt the ciphertexts prov
 
 ### Environment
 
-  * **Language:** Python 3 (3.7+ recommended)
-  * **Operating System:** Any (Windows, macOS, Linux)
+  * **Language:** Python
+  * **Operating System:** Windows, macOS, Linux,...
 
 ### Library Installation
 
